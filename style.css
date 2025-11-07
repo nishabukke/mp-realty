@@ -70,6 +70,7 @@ h1,h2,h3,h4,h5,h6,p{
     padding: 10px 20px;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .left-header img{
@@ -131,7 +132,7 @@ h1,h2,h3,h4,h5,h6,p{
 
 .animation-section{
     position: absolute;
-    top: 45%;
+    top: 50%;
     left: 8%;
 }
 
@@ -656,7 +657,7 @@ h1,h2,h3,h4,h5,h6,p{
   }
 
   #header{
-    height: 380px;
+    height: 360px;
     /* background-size: cover; */
   }
 
@@ -679,7 +680,7 @@ h1,h2,h3,h4,h5,h6,p{
 
   .animation-section {
     position: absolute;
-    top: 37%;
+    bottom: 5%;
     left: 5%;
   }
 
@@ -729,7 +730,6 @@ h1,h2,h3,h4,h5,h6,p{
 
   .step-section .steps .one .oneR p{
     font-size: 16px;
-    padding-right: 0px;
   }
 
   .km-item span{
@@ -810,7 +810,7 @@ h1,h2,h3,h4,h5,h6,p{
   }
 
   #header{
-    height: 380px;
+    height: 360px;
     /* background-size: cover; */
   }
 
@@ -833,7 +833,7 @@ h1,h2,h3,h4,h5,h6,p{
 
   .animation-section {
     position: absolute;
-    top: 44%;
+    bottom: 5%;
     left: 5%;
   }
 
@@ -857,7 +857,6 @@ h1,h2,h3,h4,h5,h6,p{
   }
 
   .step-section .steps .one {
-  padding: 0px;
   background:
     linear-gradient(90deg, #acd8a7 0%, #cce7c9 50%, #ffffff 100%);
   }
@@ -902,10 +901,6 @@ h1,h2,h3,h4,h5,h6,p{
   .question button.show + p {
     padding-bottom: 10px;
     font-size: 14px;
-  }
-
-  .step-section .steps .one .oneR {
-    padding-right: 0px;
   }
 
   .step-section .steps .one .oneR h4 {
