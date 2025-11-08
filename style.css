@@ -860,11 +860,6 @@ h1,h2,h3,h4,h5,h6,p{
   .step-section .steps .one {
   background:
     linear-gradient(90deg, #acd8a7 0%, #cce7c9 50%, #ffffff 100%);
-    padding: 20px;
-  }
-
-  .spacer {
-  height: 40vh; 
   }
 
   .location-connectivity{
