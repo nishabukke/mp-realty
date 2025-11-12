@@ -55,7 +55,7 @@ h1,h2,h3,h4,h5,h6,p{
 /* header css start */
 
 #header{
-    background-image: url('images/home-banner1.JPG');
+    background-image: url('images/home-banner.JPG');
     background-size: cover;
     background-position: center;
     height: 600px;
